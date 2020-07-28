@@ -1,6 +1,7 @@
 # Tech Notes
 
-* To use Typescript:
+* To use Typescript
+
     ```bash
     # init an empty typescript configuration file
     touch tsconfig.json
@@ -13,3 +14,10 @@
     yarn
     yarn dev
     ```
+* SASS / SCSS module support
+
+  To use **Next.js' built-in** Sass support, install sass npm modules
+
+  ```bash
+  yarn add sass  
+  ```
