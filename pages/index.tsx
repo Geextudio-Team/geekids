@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Geekids</title>
         <link rel="icon" href="/favicon.ico" />
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
       </Head>
 
       <main className={styles.main}>
