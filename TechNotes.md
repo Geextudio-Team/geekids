@@ -14,6 +14,7 @@
     yarn
     yarn dev
     ```
+
 * SASS / SCSS module support
 
   To use **Next.js' built-in** Sass support, install sass npm modules
@@ -21,3 +22,6 @@
   ```bash
   yarn add sass  
   ```
+
+* To use [FontAwesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+* To use [Bulma](https://bulma.io)
