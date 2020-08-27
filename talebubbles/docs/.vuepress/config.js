@@ -28,7 +28,7 @@ module.exports = {
 
       themeConfig: {
 
-        logo: 'https://raw.githubusercontent.com/Geextudio-Team/geekids/master/talebubbles/docs/static/images/wizardlogo.svg',
+        logo: 'https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/wizardlogo.svg',
 
         locales: {
 
