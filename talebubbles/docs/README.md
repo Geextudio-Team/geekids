@@ -14,6 +14,8 @@ features:
   details: 基于 GPL-3.0 的开源证书，以开放的姿态进行创作.
 - title: 坚持扩展
   details: 作为开源项目进行维护，欢迎参与.
+- title: 坚持创新
+  details: 借助人工智能的加持，实现有趣而强大的与众不同.  
 footer: GPL-3.0 Licensed | Copyright © 2019-present Geextudio
 ---
 
