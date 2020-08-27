@@ -2,7 +2,7 @@
 home: true
 title: 首页
 lang: zh-CN
-heroImage: /assets/img/bubbleidea.fc3102ed.svg
+heroImage: https://raw.githubusercontent.com/Geextudio-Team/geekids/master/talebubbles/docs/static/images/bubbleidea.svg
 heroText: 故事泡泡
 tagline: 梦 + 想象 + 有趣 = 好故事
 actionText: 开启旅程 →

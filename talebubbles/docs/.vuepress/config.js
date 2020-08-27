@@ -1,12 +1,12 @@
 module.exports = {
 
-    configureWebpack: {
+    /* configureWebpack: {
       resolve: {
         alias: {
           '@homeurl':'/static/images',
         }
       }
-    },
+    }, */
 
     dest: 'dist',
     
@@ -28,8 +28,7 @@ module.exports = {
 
       themeConfig: {
 
-        // http://localhost:8080/assets/img/wizardlogo.d1fcfdb6.svg
-        logo: '/assets/img/wizardlogo.d1fcfdb6.svg',
+        logo: 'https://raw.githubusercontent.com/Geextudio-Team/geekids/master/talebubbles/docs/static/images/wizardlogo.svg',
 
         locales: {
 
