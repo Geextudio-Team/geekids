@@ -60,6 +60,18 @@ module.exports = {
                   { text: '首页', link: '/' }
                 ],
 
+                sidebar: [
+                  {
+                    title: '泡泡奇遇记',   // 必要的
+                    //path: '/introduction/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                    collapsable: true, // 可选的, 默认值是 true,
+                    sidebarDepth: 2,    // 可选的, 默认值是 1
+                    children: [
+                      '/bubblejourney/',
+                    
+                    ]
+                  },
+                ]
               },  
 
           /*   '/en/': {
