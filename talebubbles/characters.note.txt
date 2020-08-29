@@ -1,3 +1,6 @@
+<iframe name="music" src="http://music.163.com/song/media/outer/url?id=1382359170.mp3" marginwidth="1px" marginheight="20px" width=30% height="80px" frameborder=1 　scrolling="yes">
+</iframe>
+
 人物列表：
 
 女生:
