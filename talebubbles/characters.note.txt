@@ -1,0 +1,75 @@
+人物列表：
+
+女生:
+
+  * 阿黛尔小公主
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.001.svg" width="100" height="100" />
+
+  * 莫尔娜小公主
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.009.svg" width="100" height="100" />
+
+  * 苗翠花
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.002.svg" width="100" height="100" />
+
+  * 朵洛贝尔 ( 苗翠花行动代号 )
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl_with_eyes.svg" width="100" height="100" />
+
+  * 桃小桃
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.003.svg" width="100" height="100" />
+  
+  * 梦仙子
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girlface.svg" width="100" height="100" />
+
+  * 阿布
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.004.svg" width="100" height="100" />
+
+  * 艾琪
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.005.svg" width="100" height="100" />
+
+  * 杜雅珑
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.006.svg" width="100" height="100" />
+
+  * 北岛晴子
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girl.002-2.svg" width="100" height="100" />
+
+  * 桑德拉
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/girlgirl.0031.svg" width="100" height="100" />
+
+男生:
+
+  * 张晓松
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/boy.svg" width="100" height="100" />
+
+  * 罗迪 ( 张晓松行动代号 )
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/boy.004.svg" width="100" height="100" />
+
+  * 桑切拉莫迪尔
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/boy.002.svg" width="100" height="100" />
+
+  * 文山和夫
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/boy.003.svg" width="100" height="100" />
+
+  * 苏启贤
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/icon_boy.svg" width="100" height="100" />
+  
+  * 沈老师
+
+  <img src="https://bizbetter.coding.net/p/appresource/d/appresource/git/raw/master/images/talebubbles/badboys00023.svg" width="100" height="100" />
+  
+  
